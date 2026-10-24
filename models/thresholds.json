@@ -1,0 +1,6 @@
+{
+  "low": 0.02,
+  "high": 0.95,
+  "model_file": "xgb_transaction.joblib",
+  "scaler_file": "scaler.joblib"
+}
